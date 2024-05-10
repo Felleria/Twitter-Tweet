@@ -1,0 +1,33 @@
+{
+    "tweets" : [
+        {
+            "id": 1,
+            "user": "Kelvin Kinoti",
+            "username": "@kinotikm",
+            "content": "I really enjoy codig, only God knows how much i enjoy Coding...",
+            "date": "May 08, 2024 11:05 am"
+        },
+        {
+            "id": 2,
+            "user": "Doc Obura",
+            "username": "@docmartin",
+            "content": "When are we having the break i am sooo tires OMG!!...",
+            "date": "May 08, 2024 11:05 am"
+        },
+        {
+            "id": 3,
+            "user": "Felleria Nangoma",
+            "username": "@_telly",
+            "content": "30 Days Of Python challenge has been started on 22 November 2024 and ended on 22 December 2024...",
+            "date": "May 08, 2024 11:05 am"
+        },
+        {
+            "id": 4,
+            "user": "Juma Allan",
+            "username": "@tech_broo",
+            "content": "I am an Android engineer . I work at SmileID company...",
+            "date": "May 08, 2024 11:05 am"
+        }
+    ]
+    
+}
